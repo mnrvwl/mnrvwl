@@ -1,4 +1,4 @@
-⠿ 🪬 Hi, I’m Minerva Orlova, people call me Neveda.  
+⠿ 🪬 Hi, I’m Minerva Orlova, people call me _**Neveda**_.  
 ⠿ ⚡️ Interested in documentation, standards and secure programming.  
 ⠿ 🌱 Currently learning cybersecurity.  
 ⠿ 🚀 Looking to collaborate on testing, documentation and standards.  
